@@ -2,7 +2,7 @@ echo "Starting..."
 
 offset=0
 limit=100000
-output_file="parking_violations.csv"
+output_file="NYC_parking_violations.csv"
 iteration=0
 
 #get first 100000 rows and write to file
